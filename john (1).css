@@ -1,0 +1,14 @@
+body{color:brown}
+p{color:rgb(188, 150, 105); 
+    font-size:20px;
+    font-family:Courier;
+    font-weight:bold;
+    font-style:italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-decoration:underline;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+ }
+ body{background-color: bisque;}
